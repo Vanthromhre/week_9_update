@@ -1,0 +1,30 @@
+html {
+    font-size: 70%;
+}
+
+p {
+    font-size: 100%;
+}
+
+article {
+    font-size: 150%;
+}
+
+section {
+    font-size: 200%;
+}
+div {
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid black;
+}
+.remart {
+    font-size: 200%;
+    margin: 1%;
+}
+
+.remsect {
+    font-size: 200%;
+    margin: 3%;
+}

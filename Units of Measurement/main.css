@@ -1,0 +1,23 @@
+html {
+    font-size: 70%;
+}
+
+p {
+    font-size: 1em;
+}
+
+article {
+    font-size: 2em;
+}
+
+section {
+    font-size: 3em;
+}
+
+.remart {
+    font-size: 2rem;
+}
+
+.remsect {
+    font-size: 3rem;
+}
